@@ -3,7 +3,7 @@
 
 ### About me
 
-Hi! I'm David! I like to code, play games, and code games (why didn't you read the second heading). I play Minecraft, Roblox, and Among Us, and like to code. MY development environment consists of Windows as a base, WSL on top with most of my dev tools and general Linux stuff, and more stuff I'll get to in the next sentence. I use [Visual Studio Code](https://code.visualstudio.com/), [Visual Studio](https://visualstudio.microsoft.com/), [IntelliJ](https://www.jetbrains.com/idea/), [Android Studio](https://developer.android.com/studio), [Roblox Studio](https://web.roblox.com/create), and [Brackets](http://brackets.io/).
+Hi! I'm David! I like to code, play games, and code games (why didn't you read the second heading). I play Minecraft, Roblox, and Among Us, and like to code. MY development environment consists of Windows as a base, WSL on top with most of my dev tools and general Linux stuff, and more stuff I'll get to in the next sentence. I use [Visual Studio Code](https://code.visualstudio.com/), [Visual Studio](https://visualstudio.microsoft.com/), [IntelliJ](https://www.jetbrains.com/idea/), [Android Studio](https://developer.android.com/studio), [Roblox Studio](https://web.roblox.com/create), and [Brackets](https://brackets.io/).
 
 I'm currently interested in C++, Python, Pug, and JavaScript.
 
